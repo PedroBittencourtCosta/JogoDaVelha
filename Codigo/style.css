@@ -1,0 +1,16 @@
+* {
+    margin: 0%;
+    /* padding: 0%; */
+}
+
+.backgraunder {
+    background-color: blueviolet;
+}
+
+.jogo {
+    background-color: rgba(190, 226, 90, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50, -50);
+}
